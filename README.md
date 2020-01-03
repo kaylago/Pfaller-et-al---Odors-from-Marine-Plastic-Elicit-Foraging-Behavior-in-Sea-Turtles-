@@ -1,3 +1,3 @@
 #Pfaller_etal_Turtle_Odor_Data
 
-This folder contains all raw averaged data for the paper.
+This folder contains the data averaged across two independent observers.
