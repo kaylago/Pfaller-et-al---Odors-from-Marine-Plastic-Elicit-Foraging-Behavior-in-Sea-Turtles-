@@ -1,0 +1,56 @@
+"","group","behavior","ID","turtle.name","date","treatment","avgtime"
+"1","A","nares out of h2o","L169","Michael",2019-01-15,"clean plastic",2.75399999999999
+"2","A","nares out of h2o","L169","Michael",2019-01-17,"food",37.07
+"3","A","nares out of h2o","L169","Michael",2019-01-25,"conditioned plastic",14.9410000000002
+"4","A","nares out of h2o","L169","Michael",2019-01-31,"dh2o",8.45099999999999
+"5","A","nares out of h2o","L170","Dwight",2019-01-15,"dh2o",14.4345000000001
+"6","A","nares out of h2o","L170","Dwight",2019-01-23,"food",11.913
+"7","A","nares out of h2o","L170","Dwight",2019-01-25,"clean plastic",5.54050000000001
+"8","A","nares out of h2o","L170","Dwight",2019-01-31,"conditioned plastic",2.0975
+"9","A","nares out of h2o","L171","Pam",2019-01-15,"clean plastic",5.36349999999996
+"10","A","nares out of h2o","L171","Pam",2019-01-23,"dh2o",2.62400000000005
+"11","A","nares out of h2o","L171","Pam",2019-01-25,"food",2.25200000000001
+"12","A","nares out of h2o","L171","Pam",2019-01-31,"conditioned plastic",27.988
+"13","A","nares out of h2o","L172","Jim",2019-01-17,"dh2o",0.997000000000014
+"14","A","nares out of h2o","L172","Jim",2019-01-23,"clean plastic",0.998000000000047
+"15","A","nares out of h2o","L172","Jim",2019-01-25,"conditioned plastic",1.012
+"16","A","nares out of h2o","L172","Jim",2019-02-02,"food",0.753999999999962
+"17","A","nares out of h2o","L173","Kelly",2019-01-15,"food",29.204
+"18","A","nares out of h2o","L173","Kelly",2019-01-25,"dh2o",3.61900000000014
+"19","A","nares out of h2o","L173","Kelly",2019-01-27,"clean plastic",1.50899999999996
+"20","A","nares out of h2o","L173","Kelly",2019-02-02,"conditioned plastic",2.87849999999997
+"21","A","nares out of h2o","L174","Ryan",2019-01-23,"clean plastic",1.76399999999995
+"22","A","nares out of h2o","L174","Ryan",2019-01-27,"dh2o",1.99700000000004
+"23","A","nares out of h2o","L174","Ryan",2019-01-31,"conditioned plastic",19.099
+"24","A","nares out of h2o","L174","Ryan",2019-02-02,"food",8.36750000000006
+"25","A","nares out of h2o","L176","Stanley",2019-01-17,"dh2o",1.49899999999997
+"26","A","nares out of h2o","L176","Stanley",2019-01-23,"clean plastic",1.38
+"27","A","nares out of h2o","L176","Stanley",2019-01-31,"conditioned plastic",1.00000000000003
+"28","B","nares out of h2o","L177","Oscar",2019-01-16,"dh2o",3.78399999999996
+"29","B","nares out of h2o","L177","Oscar",2019-01-22,"clean plastic",1.25399999999991
+"30","B","nares out of h2o","L177","Oscar",2019-01-28,"conditioned plastic",4.00450000000001
+"31","B","nares out of h2o","L177","Oscar",2019-01-30,"food",8.51000000000005
+"32","B","nares out of h2o","L178","Angela",2019-01-14,"dh2o",1.37299999999999
+"33","B","nares out of h2o","L178","Angela",2019-01-24,"food",5.85050000000001
+"34","B","nares out of h2o","L178","Angela",2019-01-28,"clean plastic",2.31900000000002
+"35","B","nares out of h2o","L178","Angela",2019-02-01,"conditioned plastic",7
+"36","B","nares out of h2o","L179","Kevin",2019-01-14,"dh2o",2.99850000000004
+"37","B","nares out of h2o","L179","Kevin",2019-01-16,"food",26.0070000000001
+"38","B","nares out of h2o","L179","Kevin",2019-01-22,"clean plastic",2.50600000000003
+"39","B","nares out of h2o","L179","Kevin",2019-01-30,"conditioned plastic",2.99999999999994
+"40","B","nares out of h2o","L180","Meredith",2019-01-16,"dh2o",3.37549999999999
+"41","B","nares out of h2o","L180","Meredith",2019-01-18,"food",33.748
+"42","B","nares out of h2o","L180","Meredith",2019-01-24,"conditioned plastic",19.3450000000001
+"43","B","nares out of h2o","L180","Meredith",2019-02-01,"clean plastic",2.988
+"44","B","nares out of h2o","L181","Daryll",2019-01-16,"conditioned plastic",7.00499999999994
+"45","B","nares out of h2o","L181","Daryll",2019-01-24,"clean plastic",1.63150000000002
+"46","B","nares out of h2o","L181","Daryll",2019-01-30,"food",4.49999999999994
+"47","B","nares out of h2o","L181","Daryll",2019-02-01,"dh2o",6.50499999999988
+"48","B","nares out of h2o","L182","Jan",2019-01-14,"food",7.73150000000004
+"49","B","nares out of h2o","L182","Jan",2019-01-22,"dh2o",6.4975
+"50","B","nares out of h2o","L182","Jan",2019-01-24,"conditioned plastic",10.6210000000001
+"51","B","nares out of h2o","L182","Jan",2019-01-30,"clean plastic",5.98900000000009
+"52","B","nares out of h2o","L183","Creed",2019-01-18,"dh2o",4.75649999999999
+"53","B","nares out of h2o","L183","Creed",2019-01-22,"food",31.4455
+"54","B","nares out of h2o","L183","Creed",2019-01-30,"clean plastic",2.5
+"55","B","nares out of h2o","L183","Creed",2019-02-01,"conditioned plastic",60.5380000000002

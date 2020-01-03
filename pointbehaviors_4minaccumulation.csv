@@ -1,0 +1,133 @@
+"","behavior","ID","turtle.name","date","treatment","group","nest.number","avgcount"
+"1","breath (count)","L169","Michael",2019-01-15,"clean plastic","A",1,2
+"2","breath (count)","L169","Michael",2019-01-17,"food","A",1,11
+"3","breath (count)","L169","Michael",2019-01-25,"conditioned plastic","A",1,10
+"4","breath (count)","L169","Michael",2019-01-31,"dh2o","A",1,5.5
+"5","breath (count)","L170","Dwight",2019-01-15,"dh2o","A",1,10.5
+"6","breath (count)","L170","Dwight",2019-01-23,"food","A",1,8.5
+"7","breath (count)","L170","Dwight",2019-01-25,"clean plastic","A",1,4
+"8","breath (count)","L170","Dwight",2019-01-31,"conditioned plastic","A",1,1.5
+"9","breath (count)","L171","Pam",2019-01-15,"clean plastic","A",2,4
+"10","breath (count)","L171","Pam",2019-01-23,"dh2o","A",2,2.5
+"11","breath (count)","L171","Pam",2019-01-25,"food","A",2,2
+"12","breath (count)","L171","Pam",2019-01-31,"conditioned plastic","A",2,9.5
+"13","breath (count)","L172","Jim",2019-01-17,"dh2o","A",2,1
+"14","breath (count)","L172","Jim",2019-01-23,"clean plastic","A",2,1
+"15","breath (count)","L172","Jim",2019-01-25,"conditioned plastic","A",2,1
+"16","breath (count)","L172","Jim",2019-02-02,"food","A",2,1
+"17","breath (count)","L173","Kelly",2019-01-15,"food","A",3,9.5
+"18","breath (count)","L173","Kelly",2019-01-25,"dh2o","A",3,4
+"19","breath (count)","L173","Kelly",2019-01-27,"clean plastic","A",3,2
+"20","breath (count)","L173","Kelly",2019-02-02,"conditioned plastic","A",3,3
+"21","breath (count)","L174","Ryan",2019-01-23,"clean plastic","A",3,4
+"22","breath (count)","L174","Ryan",2019-01-27,"dh2o","A",3,2.5
+"23","breath (count)","L174","Ryan",2019-01-31,"conditioned plastic","A",3,11
+"24","breath (count)","L174","Ryan",2019-02-02,"food","A",3,8
+"25","breath (count)","L176","Stanley",2019-01-17,"dh2o","A",4,1
+"26","breath (count)","L176","Stanley",2019-01-23,"clean plastic","A",4,1
+"27","breath (count)","L176","Stanley",2019-01-31,"conditioned plastic","A",4,1
+"28","breath (count)","L177","Oscar",2019-01-16,"dh2o","B",5,4
+"29","breath (count)","L177","Oscar",2019-01-22,"clean plastic","B",5,1
+"30","breath (count)","L177","Oscar",2019-01-28,"conditioned plastic","B",5,3
+"31","breath (count)","L177","Oscar",2019-01-30,"food","B",5,6
+"32","breath (count)","L178","Angela",2019-01-14,"dh2o","B",5,1
+"33","breath (count)","L178","Angela",2019-01-24,"food","B",5,4.5
+"34","breath (count)","L178","Angela",2019-01-28,"clean plastic","B",5,2
+"35","breath (count)","L178","Angela",2019-02-01,"conditioned plastic","B",5,5
+"36","breath (count)","L179","Kevin",2019-01-14,"dh2o","B",6,2.5
+"37","breath (count)","L179","Kevin",2019-01-16,"food","B",6,9
+"38","breath (count)","L179","Kevin",2019-01-22,"clean plastic","B",6,2.5
+"39","breath (count)","L179","Kevin",2019-01-30,"conditioned plastic","B",6,3
+"40","breath (count)","L180","Meredith",2019-01-16,"dh2o","B",6,3
+"41","breath (count)","L180","Meredith",2019-01-18,"food","B",6,5
+"42","breath (count)","L180","Meredith",2019-01-24,"conditioned plastic","B",6,13
+"43","breath (count)","L180","Meredith",2019-02-01,"clean plastic","B",6,2
+"44","breath (count)","L181","Daryll",2019-01-16,"conditioned plastic","B",7,6.5
+"45","breath (count)","L181","Daryll",2019-01-24,"clean plastic","B",7,1.5
+"46","breath (count)","L181","Daryll",2019-01-30,"food","B",7,4
+"47","breath (count)","L181","Daryll",2019-02-01,"dh2o","B",7,8
+"48","breath (count)","L182","Jan",2019-01-14,"food","B",7,6.5
+"49","breath (count)","L182","Jan",2019-01-22,"dh2o","B",7,5
+"50","breath (count)","L182","Jan",2019-01-24,"conditioned plastic","B",7,10
+"51","breath (count)","L182","Jan",2019-01-30,"clean plastic","B",7,7
+"52","breath (count)","L183","Creed",2019-01-18,"dh2o","B",8,4.5
+"53","breath (count)","L183","Creed",2019-01-22,"food","B",8,18.5
+"54","breath (count)","L183","Creed",2019-01-30,"clean plastic","B",8,2
+"55","breath (count)","L183","Creed",2019-02-01,"conditioned plastic","B",8,14
+"56","dive (count)","L169","Michael",2019-01-25,"conditioned plastic","A",1,1.5
+"57","dive (count)","L170","Dwight",2019-01-15,"dh2o","A",1,1.5
+"58","dive (count)","L170","Dwight",2019-01-23,"food","A",1,4
+"59","dive (count)","L170","Dwight",2019-01-25,"clean plastic","A",1,1
+"60","dive (count)","L170","Dwight",2019-01-31,"conditioned plastic","A",1,1
+"61","dive (count)","L171","Pam",2019-01-15,"clean plastic","A",2,1
+"62","dive (count)","L171","Pam",2019-01-23,"dh2o","A",2,1.5
+"63","dive (count)","L171","Pam",2019-01-25,"food","A",2,1
+"64","dive (count)","L171","Pam",2019-01-31,"conditioned plastic","A",2,5
+"65","dive (count)","L172","Jim",2019-01-17,"dh2o","A",2,2
+"66","dive (count)","L172","Jim",2019-01-23,"clean plastic","A",2,1
+"67","dive (count)","L172","Jim",2019-01-25,"conditioned plastic","A",2,2
+"68","dive (count)","L172","Jim",2019-02-02,"food","A",2,1
+"69","dive (count)","L173","Kelly",2019-01-15,"food","A",3,3
+"70","dive (count)","L173","Kelly",2019-01-25,"dh2o","A",3,3
+"71","dive (count)","L173","Kelly",2019-01-27,"clean plastic","A",3,2.5
+"72","dive (count)","L173","Kelly",2019-02-02,"conditioned plastic","A",3,2
+"73","dive (count)","L174","Ryan",2019-01-27,"dh2o","A",3,1.5
+"74","dive (count)","L174","Ryan",2019-01-31,"conditioned plastic","A",3,1
+"75","dive (count)","L174","Ryan",2019-02-02,"food","A",3,3.5
+"76","dive (count)","L176","Stanley",2019-01-23,"clean plastic","A",4,1
+"77","dive (count)","L176","Stanley",2019-01-31,"conditioned plastic","A",4,1
+"78","dive (count)","L177","Oscar",2019-01-16,"dh2o","B",5,1.5
+"79","dive (count)","L177","Oscar",2019-01-22,"clean plastic","B",5,1
+"80","dive (count)","L177","Oscar",2019-01-28,"conditioned plastic","B",5,2
+"81","dive (count)","L177","Oscar",2019-01-30,"food","B",5,3
+"82","dive (count)","L178","Angela",2019-01-14,"dh2o","B",5,1
+"83","dive (count)","L178","Angela",2019-01-24,"food","B",5,6
+"84","dive (count)","L178","Angela",2019-01-28,"clean plastic","B",5,2
+"85","dive (count)","L178","Angela",2019-02-01,"conditioned plastic","B",5,3
+"86","dive (count)","L179","Kevin",2019-01-14,"dh2o","B",6,1.5
+"87","dive (count)","L179","Kevin",2019-01-16,"food","B",6,4
+"88","dive (count)","L179","Kevin",2019-01-22,"clean plastic","B",6,4
+"89","dive (count)","L179","Kevin",2019-01-30,"conditioned plastic","B",6,2
+"90","dive (count)","L180","Meredith",2019-01-16,"dh2o","B",6,2
+"91","dive (count)","L180","Meredith",2019-01-24,"conditioned plastic","B",6,4
+"92","dive (count)","L180","Meredith",2019-02-01,"clean plastic","B",6,3
+"93","dive (count)","L181","Daryll",2019-01-16,"conditioned plastic","B",7,1.5
+"94","dive (count)","L181","Daryll",2019-01-24,"clean plastic","B",7,3
+"95","dive (count)","L181","Daryll",2019-01-30,"food","B",7,4
+"96","dive (count)","L181","Daryll",2019-02-01,"dh2o","B",7,4
+"97","dive (count)","L182","Jan",2019-01-22,"dh2o","B",7,1
+"98","dive (count)","L182","Jan",2019-01-24,"conditioned plastic","B",7,4
+"99","dive (count)","L182","Jan",2019-01-30,"clean plastic","B",7,4
+"100","dive (count)","L183","Creed",2019-01-18,"dh2o","B",8,1
+"101","dive (count)","L183","Creed",2019-01-30,"clean plastic","B",8,2
+"102","dive (count)","L183","Creed",2019-02-01,"conditioned plastic","B",8,1
+"103","traverse","L169","Michael",2019-01-17,"food","A",1,1
+"104","traverse","L169","Michael",2019-01-25,"conditioned plastic","A",1,6.5
+"105","traverse","L170","Dwight",2019-01-23,"food","A",1,1
+"106","traverse","L170","Dwight",2019-01-31,"conditioned plastic","A",1,1
+"107","traverse","L171","Pam",2019-01-31,"conditioned plastic","A",2,2
+"108","traverse","L172","Jim",2019-01-17,"dh2o","A",2,2
+"109","traverse","L172","Jim",2019-01-25,"conditioned plastic","A",2,2
+"110","traverse","L172","Jim",2019-02-02,"food","A",2,1
+"111","traverse","L173","Kelly",2019-01-15,"food","A",3,4
+"112","traverse","L173","Kelly",2019-02-02,"conditioned plastic","A",3,2.5
+"113","traverse","L174","Ryan",2019-01-27,"dh2o","A",3,3
+"114","traverse","L174","Ryan",2019-01-31,"conditioned plastic","A",3,5
+"115","traverse","L174","Ryan",2019-02-02,"food","A",3,2
+"116","traverse","L176","Stanley",2019-01-31,"conditioned plastic","A",4,1
+"117","traverse","L177","Oscar",2019-01-16,"dh2o","B",5,1.5
+"118","traverse","L177","Oscar",2019-01-28,"conditioned plastic","B",5,5.5
+"119","traverse","L178","Angela",2019-01-28,"clean plastic","B",5,2.5
+"120","traverse","L179","Kevin",2019-01-14,"dh2o","B",6,1
+"121","traverse","L179","Kevin",2019-01-16,"food","B",6,1.5
+"122","traverse","L179","Kevin",2019-01-22,"clean plastic","B",6,2
+"123","traverse","L180","Meredith",2019-01-16,"dh2o","B",6,1
+"124","traverse","L180","Meredith",2019-01-18,"food","B",6,4
+"125","traverse","L180","Meredith",2019-01-24,"conditioned plastic","B",6,2.5
+"126","traverse","L181","Daryll",2019-01-16,"conditioned plastic","B",7,2
+"127","traverse","L181","Daryll",2019-01-24,"clean plastic","B",7,2
+"128","traverse","L182","Jan",2019-01-14,"food","B",7,3
+"129","traverse","L182","Jan",2019-01-22,"dh2o","B",7,11.5
+"130","traverse","L182","Jan",2019-01-24,"conditioned plastic","B",7,6.5
+"131","traverse","L183","Creed",2019-01-18,"dh2o","B",8,5
+"132","traverse","L183","Creed",2019-01-22,"food","B",8,6
